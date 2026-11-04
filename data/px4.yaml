@@ -1,0 +1,4 @@
+name: PX4 SITL
+link: https://github.com/PX4/PX4-Autopilot
+kind: Integration
+creator: PX4

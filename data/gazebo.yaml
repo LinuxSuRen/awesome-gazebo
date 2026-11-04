@@ -1,0 +1,4 @@
+name: Gazebo
+link: https://github.com/gazebosim/gz-sim
+kind: Simulator
+creator: Gazebosim

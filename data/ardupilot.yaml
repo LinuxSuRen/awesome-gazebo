@@ -1,0 +1,4 @@
+name: ArduPilot SITL
+link: https://github.com/ArduPilot/ardupilot
+kind: Integration
+creator: ArduPilot

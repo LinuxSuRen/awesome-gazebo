@@ -1,0 +1,4 @@
+name: gazebo_ros2_control
+link: https://github.com/ros-controls/gazebo_ros2_control
+kind: Integration
+creator: ROS Controls

@@ -1,0 +1,4 @@
+name: gazebo_models
+link: https://github.com/osrf/gazebo_models
+kind: Model
+creator: OSRF
